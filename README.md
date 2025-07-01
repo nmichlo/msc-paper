@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <i>Please see the original research code at <a href="https://github.com/nmichlo/disent">nmichlo/msc-research</a></i>
+    <i>Please see the original research code at <a href="https://github.com/nmichlo/msc-research">nmichlo/msc-research</a></i>
     </br>
     <i>This research has been built using the <a href="https://github.com/nmichlo/disent">nmichlo/disent</a> framework</i>
 </p>
@@ -20,3 +20,14 @@ This dissertation was completed in 2022 with a final mark of 88%, supervised by 
 See the spinoff paper submitted to IJCAI 2023: `Overlooked Implications of the Reconstruction Loss for VAE Disentanglement`
 - https://arxiv.org/abs/2202.13341
 - https://www.ijcai.org/proceedings/2023/0453
+
+# Code
+
+Please see the research code at:
+- https://github.com/nmichlo/msc-research
+
+The `disent` framework for easily comparing and running VAE disentanglement experiments as well as preparing data.
+- https://github.com/nmichlo/disent
+
+The `ruck` library for running distributed multi-objective optimisation algorithms with JIT support and a pytorch-lightning inspired API.
+- https://github.com/nmichlo/ruck
